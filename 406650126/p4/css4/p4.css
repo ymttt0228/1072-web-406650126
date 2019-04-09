@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif, 微軟正黑體;
+    background-image: url(../images/bg.jpg);  
+}
+
+#all{
+    width:800px;
+}
+
+#allheader{
+    height:80px;
+    background:brown;
+    color:white;
+    text-align:center;
+    font-size:30px;
+    line-height:80px;
+}
+
+#allaside{
+    height:500px;
+    background:black;
+}
+
+#alllink{
+    height:40px;
+}
+
+ul li{
+    list-style-type:none;
+    float:left;
+    margin-left:15px;
+}
+
+ul li a{
+    width:80px;
+    background:rgba(33, 122, 93, 0.801);
+    padding: 5px;  /*背景大小*/
+    color:white;
+}
+
+#footer{
+    height:20px;
+    background:brown;
+    color:white;
+    text-align:center;
+    font-size:13px;
+    line-height:30px;
+}
